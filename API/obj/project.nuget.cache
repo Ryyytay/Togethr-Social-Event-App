@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9MPS1LEAwF8=",
+  "dgSpecHash": "tjqtnXO8NzM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\taype\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\taype\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\taype\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
