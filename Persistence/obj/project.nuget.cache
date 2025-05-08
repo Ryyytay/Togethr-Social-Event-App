@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0k7xbR5ZL8=",
+  "dgSpecHash": "rzaPdSbhVDQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.4\\microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",

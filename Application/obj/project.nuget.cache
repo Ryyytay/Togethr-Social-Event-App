@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7fFbD3Dkb1s=",
+  "dgSpecHash": "M4JnBEnwtxE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\taype\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\taype\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\taype\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.4\\microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",
