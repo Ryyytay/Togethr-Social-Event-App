@@ -1248,11 +1248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\taype\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\obj\\",
+      "outputPath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1274,11 +1274,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\taype\\Documents\\Github\\Togethr\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Domain\\Domain.csproj"
+            "C:\\Users\\taype\\Documents\\Github\\Togethr\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\taype\\Documents\\Github\\Togethr\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\taype\\Documents\\Github\\Togethr\\Persistence\\Persistence.csproj"
+            "C:\\Users\\taype\\Documents\\Github\\Togethr\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\Persistence\\Persistence.csproj"
             }
           }
         }
