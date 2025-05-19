@@ -159,3 +159,5 @@ C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\runtimes\win-x86\na
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\MediatR.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\MediatR.Contracts.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
