@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FibnAiCZk3c=",
+  "dgSpecHash": "QbbJaQBcZtA=",
   "success": true,
   "projectFilePath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taype\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\taype\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\taype\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
