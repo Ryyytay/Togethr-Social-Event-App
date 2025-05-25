@@ -26,12 +26,10 @@ namespace Application.Activities.Validators
                 .MaximumLength(50).WithMessage("Category must not exceed 50 characters.");
             RuleFor(x => selector(x).City)
                 .NotEmpty()
-                .WithMessage("City is required.")
-                .MaximumLength(50).WithMessage("City must not exceed 50 characters.");
+                .WithMessage("City is required.");
             RuleFor(x => selector(x).Venue)
                 .NotEmpty()
-                .WithMessage("Venue is required.")
-                .MaximumLength(100).WithMessage("Venue must not exceed 100 characters.");
+                .WithMessage("Venue is required.");
             RuleFor(x => selector(x).Latitude)
                 .NotEmpty()
                 .WithMessage("Latitude is required.")
