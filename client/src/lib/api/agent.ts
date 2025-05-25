@@ -1,7 +1,6 @@
 import axios from "axios";
 import { store } from "../stores/store";
 import { toast } from "react-toastify";
-import { Navigate } from "react-router";
 import { router } from "../../app/router/Routes";
 
 const sleep = (delay: number) => {

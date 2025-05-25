@@ -34,14 +34,14 @@ export default function ActivityForm() {
     
     const onSubmit = async (data: ActivitySchema) => {
         const {location, ...rest} = data;
-        const flattanedData = {...rest, ...location}
+        const flattenedData = {...rest, ...location};
         try {
             if (activity) {
-                updateActivity.mutateAsync({...activity, ...flattanedData}, {
+                updateActivity.mutateAsync({...activity, ...flattenedData}, {
                     onSuccess: () => navigate(`/activities/${activity.id}`),
                 })
             } else {
-                createActivity.mutateAsync(flattanedData, {
+                createActivity.mutateAsync(flattenedData, {
                     onSuccess: (id) => navigate(`/activities/${id}`),
                 })
             }
