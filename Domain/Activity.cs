@@ -3,7 +3,7 @@ using System;
 namespace Domain;
 
 public class Activity
-{   
+{
     public string Id { get; set; } = Guid.NewGuid().ToString();
 
     public required string Title { get; set; }
@@ -24,4 +24,8 @@ public class Activity
     public double Latitude { get; set; }
 
     public double Longitude { get; set; }
+
+    // navigation properties
+    
+    public ICollection<User> Attendees { get; set; } = []
 }
