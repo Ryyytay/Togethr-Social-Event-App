@@ -285,7 +285,7 @@ namespace Persistence.Migrations
                 {
                     b.HasOne("Domain.Activity", "Activity")
                         .WithMany("Attendees")
-                        .HasForeignKey("UserId")
+                        .HasForeignKey("ActivityId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

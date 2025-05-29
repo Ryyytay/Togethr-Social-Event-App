@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Application.Activities.DTOs;
 using Application.Core;
+using Application.Interfaces;
 using AutoMapper;
 using Domain;
 using FluentValidation;
@@ -19,15 +20,25 @@ public class CreateActivity
         public required CreateActivityDto ActivityDto { get; set; }
     }
 
-    public class Handler(AppDbContext context, IMapper mapper, IValidator<Command> validator) : IRequestHandler<Command, Result<string>>
+    public class Handler(AppDbContext context, IMapper mapper, IUserAccessor userAccessor) 
+    : IRequestHandler<Command, Result<string>>
     {
         public async Task<Result<string>> Handle(Command request, CancellationToken cancellationToken)
         {
-            await validator.ValidateAndThrowAsync(request, cancellationToken);
+            var user = await userAccessor.GetUserAsync();
 
             var activity = mapper.Map<Activity>(request.ActivityDto);
 
             context.Activities.Add(activity);
+
+            var attendee = new ActivityAttendee
+            {
+                ActivityId = activity.Id,
+                UserId = user.Id,
+                IsHost = true
+            };
+
+            activity.Attendees.Add(attendee);
 
             var result = await context.SaveChangesAsync(cancellationToken) > 0;
 

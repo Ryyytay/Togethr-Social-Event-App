@@ -166,3 +166,5 @@ C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Microsoft.AspNetCor
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Infrastructure.pdb

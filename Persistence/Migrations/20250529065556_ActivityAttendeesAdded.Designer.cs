@@ -11,7 +11,7 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250528072752_ActivityAttendeesAdded")]
+    [Migration("20250529065556_ActivityAttendeesAdded")]
     partial class ActivityAttendeesAdded
     {
         /// <inheritdoc />
@@ -288,7 +288,7 @@ namespace Persistence.Migrations
                 {
                     b.HasOne("Domain.Activity", "Activity")
                         .WithMany("Attendees")
-                        .HasForeignKey("UserId")
+                        .HasForeignKey("ActivityId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
