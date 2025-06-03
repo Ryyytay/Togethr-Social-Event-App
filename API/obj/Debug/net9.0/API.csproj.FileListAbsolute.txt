@@ -168,3 +168,5 @@ C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Microsoft.Extension
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Infrastructure.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\CloudinaryDotNet.dll
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Newtonsoft.Json.dll
