@@ -11,7 +11,7 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250602080741_PhotoEntityAdded")]
+    [Migration("20250603074544_PhotoEntityAdded")]
     partial class PhotoEntityAdded
     {
         /// <inheritdoc />
@@ -103,7 +103,7 @@ namespace Persistence.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Photo");
+                    b.ToTable("Photos");
                 });
 
             modelBuilder.Entity("Domain.User", b =>
