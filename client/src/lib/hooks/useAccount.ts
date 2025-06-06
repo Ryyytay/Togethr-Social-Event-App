@@ -15,8 +15,10 @@ export const useAccount = () => {
             await agent.post('/login?useCookies=true', creds)
         },
         onSuccess: async () => {
-            await queryClient.invalidateQueries({ queryKey: ['user'] });
-            
+            await queryClient.invalidateQueries({ 
+                queryKey: ['user'] 
+            });
+            await navigate('/activities');
         }
     });
 
