@@ -23,7 +23,7 @@ const ActivityDetailsChat = observer(function ActivityDetailsChat() {
     }
 
     const handleKeyPress = (event: React.KeyboardEvent<HTMLDivElement>) => {
-        if (event.key === 'Enter' && event.shiftKey) {
+        if (event.key === 'Enter' && !event.shiftKey) {
             event.preventDefault();
             handleSubmit(addComment)();
         }
@@ -68,7 +68,7 @@ const ActivityDetailsChat = observer(function ActivityDetailsChat() {
                     <Box sx={{height: '400px', overflow: 'auto'}}>
                         {commentStore.comments.map(comment => (
                             <Box key={comment.id} sx={{ display: 'flex', my: 2 }}>
-                                <Avatar src={'/images/user.png'} alt={'user image'} sx={{ mr: 2 }} />
+                                <Avatar  src={comment.imageUrl} alt={'user image'} sx={{ mr: 2 }} />
                                 <Box display='flex' flexDirection='column'>
                                     <Box display='flex' alignItems='center' gap={3}>
                                         <Typography component={Link} to={`/profiles/${comment.userId}`} 

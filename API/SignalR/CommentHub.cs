@@ -23,9 +23,9 @@ namespace API.SignalR
         {
             var httpContext = Context.GetHttpContext();
 
-            var activityId = httpContext?.Request.Query["activityId"].ToString();
+            var activityId = httpContext?.Request.Query["activityId"];
 
-            if (string.IsNullOrEmpty(activityId)) throw new ArgumentException("Activity ID is required.");
+            if (string.IsNullOrEmpty(activityId)) throw new HubException("Activity ID is required.");
 
             await Groups.AddToGroupAsync(Context.ConnectionId, activityId!);
 
