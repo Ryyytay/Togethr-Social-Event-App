@@ -155,7 +155,8 @@ export const useProfile = (id?: string, predicate?: string) => {
         deletePhoto,
         updateProfile,
         updateFollowing,
-        loadingFollowings
+        loadingFollowings,
+        followings
     }
 }
 
