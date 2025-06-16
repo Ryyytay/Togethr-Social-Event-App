@@ -1,4 +1,4 @@
-import { Box, Container, CssBaseline, Typography } from "@mui/material";
+import { Box, Container, CssBaseline } from "@mui/material";
 import NavBar from "./NavBar";
 import { Outlet, ScrollRestoration, useLocation } from "react-router";
 import HomePage from "../../features/HomePage";
@@ -13,7 +13,7 @@ function App() {
       {location.pathname === '/' ? <HomePage /> : (
         <>
           <NavBar/>
-          <Container maxWidth='xl' sx={{mt: 3}}>
+          <Container maxWidth='xl' sx={{pt: 14}}>
               <Outlet />
           </Container>
         </>
