@@ -20,14 +20,7 @@ namespace Application.Activities.Queries
         private const int MaxPageSize = 50;
         public class Query : IRequest<Result<PagedList<ActivityDto, DateTime?>>>
         {
-            public DateTime? Cursor { get; set; }
-
-            private int _pageSize = 3;
-            public int PageSize
-            {
-                get => _pageSize;
-                set => _pageSize = (value > MaxPageSize) ? MaxPageSize : value;
-            }
+            public required ActivityParams Params { get; set; }
 
         }
 
@@ -38,12 +31,17 @@ namespace Application.Activities.Queries
             {
                 var query = context.Activities
                     .OrderBy(x => x.Date)
+                    .Where(x => x.Date >= (request.Params.Cursor ?? request.Params.StartDate))
                     .AsQueryable();
 
-                if (request.Cursor.HasValue)
+                if (!string.IsNullOrEmpty(request.Params.Filter))
                 {
-                    query = query.Where(x => x.Date > request.Cursor.Value);
+                    query = request.Params.Filter switch
+                    {
+                        "isGoing" => query.Where(x => x.Attendees)
+                    }
                 }
+
 
                 var activities = await query
                         .Take(request.PageSize + 1)
