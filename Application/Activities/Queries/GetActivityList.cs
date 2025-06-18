@@ -38,19 +38,23 @@ namespace Application.Activities.Queries
                 {
                     query = request.Params.Filter switch
                     {
-                        "isGoing" => query.Where(x => x.Attendees)
-                    }
+                        "isGoing" => query.Where(x =>
+                            x.Attendees.Any(a => a.UserId == userAccessor.GetUserId())),
+                        "isHost" => query.Where(x =>
+                            x.Attendees.Any(a => a.IsHost && a.UserId == userAccessor.GetUserId())),
+                        _ => query
+                    };
                 }
 
+                var projectedActivities = query.ProjectTo<ActivityDto>(mapper.ConfigurationProvider,
+                            new { currentUserId = userAccessor.GetUserId() });
 
-                var activities = await query
-                        .Take(request.PageSize + 1)
-                        .ProjectTo<ActivityDto>(mapper.ConfigurationProvider,
-                            new { currentUserId = userAccessor.GetUserId() })
+                var activities = await projectedActivities
+                        .Take(request.Params.PageSize + 1)
                         .ToListAsync(cancellationToken);
 
                 DateTime? nextCursor = null;
-                if (activities.Count > request.PageSize)
+                if (activities.Count > request.Params.PageSize)
                 {
                     nextCursor = activities.Last().Date;
                     activities.RemoveAt(activities.Count - 1);
