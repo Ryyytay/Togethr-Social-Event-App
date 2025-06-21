@@ -1,6 +1,6 @@
 import { useParams } from "react-router";
 import { useProfile } from "../../lib/hooks/useProfile";
-import { editProfielSchema } from "../../lib/schemas/editProfileSchema";
+import { editProfielSchema, EditProfileSchema } from "../../lib/schemas/editProfileSchema";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import { useEffect } from "react";
@@ -14,7 +14,7 @@ type Props = {
 export default function ProfileEdit({ setEditMode }: Props) {
     const { id } = useParams();
     const { updateProfile, profile } = useProfile(id);
-    const { control, handleSubmit, reset, formState: {isDirty, isValid } } = useForm<editProfielSchema>({
+    const { control, handleSubmit, reset, formState: {isDirty, isValid } } = useForm<EditProfileSchema>({
             resolver: zodResolver(editProfielSchema),
             mode: 'onTouched'
         });

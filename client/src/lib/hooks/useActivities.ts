@@ -1,7 +1,6 @@
 import { keepPreviousData, useInfiniteQuery, useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import agent from "../api/agent";
 import { useLocation } from "react-router";
-import { Activity } from "../types";
 import { FieldValues } from "react-hook-form";
 import { useAccount } from "./useAccount";
 import { useStore } from "./useStore";
@@ -40,7 +39,7 @@ export const useActivities = (id?: string) => {
             ...activity,
             isHost: currentUser?.id === activity.hostId,
             isGoing: activity.attendees.some(x => x.id === currentUser?.id),
-            hostImageUrl: host.imageUrl
+            hostImageUrl: host?.imageUrl
           }     
         })
       }))

@@ -170,3 +170,8 @@ C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Infrastructure.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Infrastructure.pdb
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\CloudinaryDotNet.dll
 C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\taype\Documents\Github\Togethr\API\bin\Debug\net9.0\API.staticwebassets.runtime.json
+C:\Users\taype\Documents\Github\Togethr\API\obj\Debug\net9.0\compressed\y2wgfnisow-m2g8ofv5wl.gz
+C:\Users\taype\Documents\Github\Togethr\API\obj\Debug\net9.0\compressed\lyfss3j63k-9dktjbwqf5.gz
+C:\Users\taype\Documents\Github\Togethr\API\obj\Debug\net9.0\compressed\1dpm1p8bmc-7p0tn7ilmf.gz
+C:\Users\taype\Documents\Github\Togethr\API\obj\Debug\net9.0\compressed\4pit3vs01m-69kjnsiwqx.gz

@@ -34,7 +34,7 @@ export default function NavBar() {
             <Box>
               <MenuItem
                 component={NavLink}
-                to="/"
+                to="/activities"
                 sx={{ display: "flex", gap: 2 }}
               >
                 <Group fontSize="large" />
@@ -57,17 +57,6 @@ export default function NavBar() {
                   ) : null}
                 </Observer>
               </MenuItem>
-            </Box>
-            <Box sx={{ display: "flex" }}>
-              <MenuItemLink to="/activities">
-                Activities
-              </MenuItemLink>
-              <MenuItemLink to="/counter">
-                  Counter
-              </MenuItemLink>
-              <MenuItemLink to="/errors">
-                  Errors
-              </MenuItemLink>
             </Box>
             <Box display='flex' alignItems='center'>
               {currentUser ? (
