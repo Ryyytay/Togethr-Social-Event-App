@@ -71,7 +71,7 @@ export default function ActivityForm() {
                     </Box>
                 <LocationInput control={control} label='Enter the location' name='location' />        
                 <Box display='flex' justifyContent='end'>
-                    <Button color='inherit'>Cancel</Button>
+                    <Button onClick={() => navigate(-1)} color='inherit'>Cancel</Button>
                     <Button 
                         type="submit" color='success' variant="contained" disabled={updateActivity.isPending || createActivity.isPending}>
                         Submit
