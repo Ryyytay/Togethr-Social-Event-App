@@ -14,6 +14,7 @@ import { useStore } from "../../lib/hooks/useStore";
 import { Observer } from "mobx-react-lite";
 import { useAccount } from "../../lib/hooks/useAccount";
 import UserMenu from "./UserMenu";
+import ThemeToggle from "../shared/components/ThemeToggle";
 
 export default function NavBar() {
   const {uiStore} = useStore();
@@ -59,6 +60,7 @@ export default function NavBar() {
               </MenuItem>
             </Box>
             <Box display='flex' alignItems='center'>
+              <ThemeToggle />
               {currentUser ? (
                 <UserMenu />
               ) : (

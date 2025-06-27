@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/uDSy8hM7hEWMhl1OflFLcUW/NYyf87yBRka0BnaHnA=",
+  "Hash": "MibxVDVfhgsxjYC8H1RZWicZ525AtwQ1iXkIpYHRxXE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "index#[.{fingerprint=7p0tn7ilmf}]?.html.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ebhedjz92s",
       "Integrity": "Khhja8bh+vMLZuai1eFy9LWxEY2UDv+g27RvkdsauDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\vite.svg",
+      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\vite.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zg8rzofdes",
       "Integrity": "XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\vite.svg"
+      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\vite.svg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-DRCRSTGv#[.{fingerprint=9dktjbwqf5}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-DRCRSTGv.js",
+      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-DRCRSTGv.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "63u95bnfr9",
       "Integrity": "bp7kHAunH+6t6E8nhp/cIZc6GboFtNcI2/0rXyEnn8o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-DRCRSTGv.js"
+      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-DRCRSTGv.js"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-CEy_pVY8#[.{fingerprint=m2g8ofv5wl}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-CEy_pVY8.css",
+      "RelatedAsset": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-CEy_pVY8.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "cap38gmcs5",
       "Integrity": "PLXfbfat9t3nGeE2/UAhzorU32wT7HqciDxOBC4sN4o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-CEy_pVY8.css"
+      "OriginalItemSpec": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-CEy_pVY8.css"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-CEy_pVY8.css",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-CEy_pVY8.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-CEy_pVY8#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-CEy_pVY8.css"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-DRCRSTGv.js",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-DRCRSTGv.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-DRCRSTGv#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-DRCRSTGv.js"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-300-normal-BoeCr7ev#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-300-normal-brFHmz5Z#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-400-normal-DAIM1_dR#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-400-normal-Dry59Hjn#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-500-normal-CsCirF4J#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-500-normal-hCeO1jFL#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-700-normal-CB1Rmiii#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-700-normal-CzEIZVQR#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-300-normal-CbEu6Uxw#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-300-normal-CUPJdUZp#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-400-normal-BxX1-eA_#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-400-normal-DzMWdK87#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-500-normal-B7rQpwPu#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-500-normal-ElvJfk8V#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-700-normal-CIu0AXX2#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-700-normal-D_fA0fHY#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-300-normal-C_kb6SiH#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-300-normal-Cnub06j7#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-400-normal-CAI06USH#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-400-normal-jFM2czAU#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-500-normal-BJMS0heP#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-500-normal-D8eQD5zT#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-700-normal-DCrt6r9F#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-700-normal-DpKAje7q#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-300-normal-CztWkFGs#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-300-normal-xb4kL3zn#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-400-normal-551zQQ7R#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-400-normal-CNwBRw8h#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-500-normal-_8jDuD7w#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-500-normal-CkrA1NAy#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-700-normal-CTLkNcF_#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-700-normal-DZr4b_KL#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-300-normal-BOz0oSmX#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-300-normal-ni96UL8R#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-400-normal-uRIBRJt5#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-400-normal-ZYmyxeOy#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-500-normal-C_ARlJGk#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-500-normal-eJ10kk0m#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-700-normal-BNPgmEQS#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-700-normal-Cnx4FGpK#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-300-normal-Bhb_hbXj#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-300-normal-BMxwzQmU#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-400-normal-B3wgz80t#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-400-normal-DHrwdhE6#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-500-normal-CetgDdIa#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-500-normal-CFNaIMFC#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-700-normal-CpTCM92H#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-math-700-normal-xbpggnJp#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-300-normal-BtHl5mYl#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-300-normal-VgGNgJlY#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-400-normal-bG5rsNFs#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-400-normal-fF1SLJBj#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-500-normal-BXFTxrNR#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-500-normal-toKUCDph#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-700-normal-B2QKVW64#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-symbols-700-normal-DKkQdRpM#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-300-normal-CNeuLW5X#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-300-normal-D46JPfnP#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-400-normal-CDDxGrUb#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-400-normal-DgufTq8s#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-500-normal-Dw5heWgq#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-500-normal-HYpufUYk#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-700-normal-BFWtvCOj#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-700-normal-ChAl_rRV#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\culture.jpg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\culture.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/categoryImages/culture#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categoryImages\\culture.jpg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\drinks.jpg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\drinks.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/categoryImages/drinks#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categoryImages\\drinks.jpg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\film.jpg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\film.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/categoryImages/film#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categoryImages\\film.jpg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\food.jpg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\food.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/categoryImages/food#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categoryImages\\food.jpg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\music.jpg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\music.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/categoryImages/music#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categoryImages\\music.jpg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\travel.jpg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\travel.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/categoryImages/travel#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categoryImages\\travel.jpg"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\placeholder.png",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/placeholder#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\user.png",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\user.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/user#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.png"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\vite.svg",
+      "Identity": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\vite.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "vite#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1721,7 +1721,7 @@
   "Endpoints": [
     {
       "Route": "assets/index-CEy_pVY8.css",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1776,7 +1776,7 @@
     },
     {
       "Route": "assets/index-CEy_pVY8.css",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-CEy_pVY8.css",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-CEy_pVY8.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1813,7 +1813,7 @@
     },
     {
       "Route": "assets/index-CEy_pVY8.css.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1858,7 +1858,7 @@
     },
     {
       "Route": "assets/index-CEy_pVY8.m2g8ofv5wl.css",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1921,7 +1921,7 @@
     },
     {
       "Route": "assets/index-CEy_pVY8.m2g8ofv5wl.css",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-CEy_pVY8.css",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-CEy_pVY8.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1966,7 +1966,7 @@
     },
     {
       "Route": "assets/index-CEy_pVY8.m2g8ofv5wl.css.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\y2wgfnisow-m2g8ofv5wl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2019,7 +2019,7 @@
     },
     {
       "Route": "assets/index-DRCRSTGv.9dktjbwqf5.js",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2082,7 +2082,7 @@
     },
     {
       "Route": "assets/index-DRCRSTGv.9dktjbwqf5.js",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-DRCRSTGv.js",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-DRCRSTGv.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2127,7 +2127,7 @@
     },
     {
       "Route": "assets/index-DRCRSTGv.9dktjbwqf5.js.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2180,7 +2180,7 @@
     },
     {
       "Route": "assets/index-DRCRSTGv.js",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2235,7 +2235,7 @@
     },
     {
       "Route": "assets/index-DRCRSTGv.js",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\index-DRCRSTGv.js",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\index-DRCRSTGv.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2272,7 +2272,7 @@
     },
     {
       "Route": "assets/index-DRCRSTGv.js.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\lyfss3j63k-9dktjbwqf5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2317,7 +2317,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-300-normal-BoeCr7ev.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2354,7 +2354,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-300-normal-BoeCr7ev.yk0t57rvsl.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-BoeCr7ev.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2399,7 +2399,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-300-normal-brFHmz5Z.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2436,7 +2436,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-300-normal-brFHmz5Z.zirjbmewt4.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-brFHmz5Z.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2481,7 +2481,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-400-normal-DAIM1_dR.el0sj9ou4r.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2526,7 +2526,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-400-normal-DAIM1_dR.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-DAIM1_dR.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2563,7 +2563,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-400-normal-Dry59Hjn.67zyogfd7j.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2608,7 +2608,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-400-normal-Dry59Hjn.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-Dry59Hjn.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2645,7 +2645,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-500-normal-CsCirF4J.ruqnnagmbr.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2690,7 +2690,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-500-normal-CsCirF4J.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-CsCirF4J.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2727,7 +2727,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-500-normal-hCeO1jFL.0hkeda5nlj.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2772,7 +2772,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-500-normal-hCeO1jFL.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-hCeO1jFL.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2809,7 +2809,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-700-normal-CB1Rmiii.c2es0deug3.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2854,7 +2854,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-700-normal-CB1Rmiii.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-CB1Rmiii.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2891,7 +2891,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-700-normal-CzEIZVQR.hd9o1jhq8f.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2936,7 +2936,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-700-normal-CzEIZVQR.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-CzEIZVQR.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2973,7 +2973,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-300-normal-CbEu6Uxw.3ik6zyhadt.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3018,7 +3018,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CbEu6Uxw.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3055,7 +3055,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-300-normal-CUPJdUZp.ncdzlcq0gp.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3100,7 +3100,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-CUPJdUZp.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3137,7 +3137,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-400-normal-BxX1-eA_.3b6lw6y0nq.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3182,7 +3182,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-BxX1-eA_.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3219,7 +3219,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-400-normal-DzMWdK87.2hvop30jn4.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3264,7 +3264,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DzMWdK87.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3301,7 +3301,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-500-normal-B7rQpwPu.iqak8lvctd.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3346,7 +3346,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-B7rQpwPu.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3383,7 +3383,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-500-normal-ElvJfk8V.e6gzb9ltq0.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3428,7 +3428,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-ElvJfk8V.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3465,7 +3465,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-700-normal-CIu0AXX2.o0j9py0t4v.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3510,7 +3510,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CIu0AXX2.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3547,7 +3547,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3584,7 +3584,7 @@
     },
     {
       "Route": "assets/roboto-cyrillic-ext-700-normal-D_fA0fHY.wzfhxfmyvy.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-D_fA0fHY.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3629,7 +3629,7 @@
     },
     {
       "Route": "assets/roboto-greek-300-normal-C_kb6SiH.1zbbzszlgv.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3674,7 +3674,7 @@
     },
     {
       "Route": "assets/roboto-greek-300-normal-C_kb6SiH.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-300-normal-C_kb6SiH.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3711,7 +3711,7 @@
     },
     {
       "Route": "assets/roboto-greek-300-normal-Cnub06j7.bluto1ihf7.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3756,7 +3756,7 @@
     },
     {
       "Route": "assets/roboto-greek-300-normal-Cnub06j7.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-300-normal-Cnub06j7.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3793,7 +3793,7 @@
     },
     {
       "Route": "assets/roboto-greek-400-normal-CAI06USH.r2ob14bbib.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3838,7 +3838,7 @@
     },
     {
       "Route": "assets/roboto-greek-400-normal-CAI06USH.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-400-normal-CAI06USH.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3875,7 +3875,7 @@
     },
     {
       "Route": "assets/roboto-greek-400-normal-jFM2czAU.4e1ast0e2x.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3920,7 +3920,7 @@
     },
     {
       "Route": "assets/roboto-greek-400-normal-jFM2czAU.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-400-normal-jFM2czAU.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3957,7 +3957,7 @@
     },
     {
       "Route": "assets/roboto-greek-500-normal-BJMS0heP.2vr4s59uif.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4002,7 +4002,7 @@
     },
     {
       "Route": "assets/roboto-greek-500-normal-BJMS0heP.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-500-normal-BJMS0heP.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4039,7 +4039,7 @@
     },
     {
       "Route": "assets/roboto-greek-500-normal-D8eQD5zT.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4076,7 +4076,7 @@
     },
     {
       "Route": "assets/roboto-greek-500-normal-D8eQD5zT.zj0jxf6krs.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-500-normal-D8eQD5zT.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4121,7 +4121,7 @@
     },
     {
       "Route": "assets/roboto-greek-700-normal-DCrt6r9F.3mtvvd0107.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4166,7 +4166,7 @@
     },
     {
       "Route": "assets/roboto-greek-700-normal-DCrt6r9F.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-700-normal-DCrt6r9F.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4203,7 +4203,7 @@
     },
     {
       "Route": "assets/roboto-greek-700-normal-DpKAje7q.fjyt51ef48.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4248,7 +4248,7 @@
     },
     {
       "Route": "assets/roboto-greek-700-normal-DpKAje7q.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-greek-700-normal-DpKAje7q.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4285,7 +4285,7 @@
     },
     {
       "Route": "assets/roboto-latin-300-normal-CztWkFGs.mfuzk9ec0i.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4330,7 +4330,7 @@
     },
     {
       "Route": "assets/roboto-latin-300-normal-CztWkFGs.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-300-normal-CztWkFGs.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4367,7 +4367,7 @@
     },
     {
       "Route": "assets/roboto-latin-300-normal-xb4kL3zn.sugv3abvf5.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4412,7 +4412,7 @@
     },
     {
       "Route": "assets/roboto-latin-300-normal-xb4kL3zn.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-300-normal-xb4kL3zn.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4449,7 +4449,7 @@
     },
     {
       "Route": "assets/roboto-latin-400-normal-551zQQ7R.pzpoeh7wvn.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4494,7 +4494,7 @@
     },
     {
       "Route": "assets/roboto-latin-400-normal-551zQQ7R.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-400-normal-551zQQ7R.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4531,7 +4531,7 @@
     },
     {
       "Route": "assets/roboto-latin-400-normal-CNwBRw8h.09q4fk3qha.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4576,7 +4576,7 @@
     },
     {
       "Route": "assets/roboto-latin-400-normal-CNwBRw8h.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-400-normal-CNwBRw8h.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4613,7 +4613,7 @@
     },
     {
       "Route": "assets/roboto-latin-500-normal-_8jDuD7w.vkbo24q8qi.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4658,7 +4658,7 @@
     },
     {
       "Route": "assets/roboto-latin-500-normal-_8jDuD7w.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-500-normal-_8jDuD7w.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4695,7 +4695,7 @@
     },
     {
       "Route": "assets/roboto-latin-500-normal-CkrA1NAy.fff8d8cpmz.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4740,7 +4740,7 @@
     },
     {
       "Route": "assets/roboto-latin-500-normal-CkrA1NAy.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-500-normal-CkrA1NAy.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4777,7 +4777,7 @@
     },
     {
       "Route": "assets/roboto-latin-700-normal-CTLkNcF_.4mgxlinilp.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4822,7 +4822,7 @@
     },
     {
       "Route": "assets/roboto-latin-700-normal-CTLkNcF_.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-700-normal-CTLkNcF_.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4859,7 +4859,7 @@
     },
     {
       "Route": "assets/roboto-latin-700-normal-DZr4b_KL.m6mm1exkjq.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4904,7 +4904,7 @@
     },
     {
       "Route": "assets/roboto-latin-700-normal-DZr4b_KL.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-700-normal-DZr4b_KL.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4941,7 +4941,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-300-normal-BOz0oSmX.heyqmow8zs.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4986,7 +4986,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-300-normal-BOz0oSmX.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-BOz0oSmX.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5023,7 +5023,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-300-normal-ni96UL8R.s8ilxyhoag.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5068,7 +5068,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-300-normal-ni96UL8R.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-ni96UL8R.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5105,7 +5105,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-400-normal-uRIBRJt5.b1tfupa1zp.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5150,7 +5150,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-400-normal-uRIBRJt5.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-uRIBRJt5.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5187,7 +5187,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-400-normal-ZYmyxeOy.hvhinqt3dm.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5232,7 +5232,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-ZYmyxeOy.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5269,7 +5269,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-500-normal-C_ARlJGk.ry34v6u61a.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5314,7 +5314,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-500-normal-C_ARlJGk.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-C_ARlJGk.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5351,7 +5351,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-500-normal-eJ10kk0m.153dzxug5x.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5396,7 +5396,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-500-normal-eJ10kk0m.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-eJ10kk0m.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5433,7 +5433,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-700-normal-BNPgmEQS.hsmpm38mg2.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5478,7 +5478,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-700-normal-BNPgmEQS.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-BNPgmEQS.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5515,7 +5515,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-700-normal-Cnx4FGpK.bd5hwgni5k.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5560,7 +5560,7 @@
     },
     {
       "Route": "assets/roboto-latin-ext-700-normal-Cnx4FGpK.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-Cnx4FGpK.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5597,7 +5597,7 @@
     },
     {
       "Route": "assets/roboto-math-300-normal-Bhb_hbXj.g4ey0p7sna.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5642,7 +5642,7 @@
     },
     {
       "Route": "assets/roboto-math-300-normal-Bhb_hbXj.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-300-normal-Bhb_hbXj.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5679,7 +5679,7 @@
     },
     {
       "Route": "assets/roboto-math-300-normal-BMxwzQmU.583cyus83l.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5724,7 +5724,7 @@
     },
     {
       "Route": "assets/roboto-math-300-normal-BMxwzQmU.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-300-normal-BMxwzQmU.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5761,7 +5761,7 @@
     },
     {
       "Route": "assets/roboto-math-400-normal-B3wgz80t.s98izah8im.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5806,7 +5806,7 @@
     },
     {
       "Route": "assets/roboto-math-400-normal-B3wgz80t.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-400-normal-B3wgz80t.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5843,7 +5843,7 @@
     },
     {
       "Route": "assets/roboto-math-400-normal-DHrwdhE6.h0uqtawfrm.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5888,7 +5888,7 @@
     },
     {
       "Route": "assets/roboto-math-400-normal-DHrwdhE6.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-400-normal-DHrwdhE6.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5925,7 +5925,7 @@
     },
     {
       "Route": "assets/roboto-math-500-normal-CetgDdIa.2ar61v4s0a.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5970,7 +5970,7 @@
     },
     {
       "Route": "assets/roboto-math-500-normal-CetgDdIa.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-500-normal-CetgDdIa.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6007,7 +6007,7 @@
     },
     {
       "Route": "assets/roboto-math-500-normal-CFNaIMFC.bh3p50i17z.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6052,7 +6052,7 @@
     },
     {
       "Route": "assets/roboto-math-500-normal-CFNaIMFC.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-500-normal-CFNaIMFC.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6089,7 +6089,7 @@
     },
     {
       "Route": "assets/roboto-math-700-normal-CpTCM92H.ut9la5fww1.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6134,7 +6134,7 @@
     },
     {
       "Route": "assets/roboto-math-700-normal-CpTCM92H.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-700-normal-CpTCM92H.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6171,7 +6171,7 @@
     },
     {
       "Route": "assets/roboto-math-700-normal-xbpggnJp.q8l5e0kor5.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6216,7 +6216,7 @@
     },
     {
       "Route": "assets/roboto-math-700-normal-xbpggnJp.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-math-700-normal-xbpggnJp.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6253,7 +6253,7 @@
     },
     {
       "Route": "assets/roboto-symbols-300-normal-BtHl5mYl.5gwipbm0b4.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6298,7 +6298,7 @@
     },
     {
       "Route": "assets/roboto-symbols-300-normal-BtHl5mYl.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-300-normal-BtHl5mYl.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6335,7 +6335,7 @@
     },
     {
       "Route": "assets/roboto-symbols-300-normal-VgGNgJlY.f61u1cr6ex.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6380,7 +6380,7 @@
     },
     {
       "Route": "assets/roboto-symbols-300-normal-VgGNgJlY.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-300-normal-VgGNgJlY.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6417,7 +6417,7 @@
     },
     {
       "Route": "assets/roboto-symbols-400-normal-bG5rsNFs.o1c0zzq8vk.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6462,7 +6462,7 @@
     },
     {
       "Route": "assets/roboto-symbols-400-normal-bG5rsNFs.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-400-normal-bG5rsNFs.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6499,7 +6499,7 @@
     },
     {
       "Route": "assets/roboto-symbols-400-normal-fF1SLJBj.dk1jheique.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6544,7 +6544,7 @@
     },
     {
       "Route": "assets/roboto-symbols-400-normal-fF1SLJBj.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-400-normal-fF1SLJBj.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6581,7 +6581,7 @@
     },
     {
       "Route": "assets/roboto-symbols-500-normal-BXFTxrNR.pauvpsdyn0.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6626,7 +6626,7 @@
     },
     {
       "Route": "assets/roboto-symbols-500-normal-BXFTxrNR.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-500-normal-BXFTxrNR.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6663,7 +6663,7 @@
     },
     {
       "Route": "assets/roboto-symbols-500-normal-toKUCDph.2xnu8zmc3v.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6708,7 +6708,7 @@
     },
     {
       "Route": "assets/roboto-symbols-500-normal-toKUCDph.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-500-normal-toKUCDph.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6745,7 +6745,7 @@
     },
     {
       "Route": "assets/roboto-symbols-700-normal-B2QKVW64.02fggz84cw.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6790,7 +6790,7 @@
     },
     {
       "Route": "assets/roboto-symbols-700-normal-B2QKVW64.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-700-normal-B2QKVW64.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6827,7 +6827,7 @@
     },
     {
       "Route": "assets/roboto-symbols-700-normal-DKkQdRpM.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6864,7 +6864,7 @@
     },
     {
       "Route": "assets/roboto-symbols-700-normal-DKkQdRpM.y62t21a9hr.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-symbols-700-normal-DKkQdRpM.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6909,7 +6909,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-300-normal-CNeuLW5X.lu083vz7hu.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6954,7 +6954,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-300-normal-CNeuLW5X.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-CNeuLW5X.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6991,7 +6991,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-300-normal-D46JPfnP.wlszf2hppl.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7036,7 +7036,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-300-normal-D46JPfnP.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-D46JPfnP.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7073,7 +7073,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-400-normal-CDDxGrUb.mawhif8q61.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7118,7 +7118,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-400-normal-CDDxGrUb.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-CDDxGrUb.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7155,7 +7155,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-400-normal-DgufTq8s.czbtv6ufwr.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7200,7 +7200,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-400-normal-DgufTq8s.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-DgufTq8s.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7237,7 +7237,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-500-normal-Dw5heWgq.374nczpnvo.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7282,7 +7282,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-500-normal-Dw5heWgq.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-Dw5heWgq.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7319,7 +7319,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-500-normal-HYpufUYk.htpspvgzpa.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7364,7 +7364,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-500-normal-HYpufUYk.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-HYpufUYk.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7401,7 +7401,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-700-normal-BFWtvCOj.ucyj39v6m4.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7446,7 +7446,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-700-normal-BFWtvCOj.woff2",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-BFWtvCOj.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7483,7 +7483,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-700-normal-ChAl_rRV.hog3fjmvq4.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7528,7 +7528,7 @@
     },
     {
       "Route": "assets/roboto-vietnamese-700-normal-ChAl_rRV.woff",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-ChAl_rRV.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7565,7 +7565,7 @@
     },
     {
       "Route": "images/categoryImages/culture.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\culture.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\culture.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7602,7 +7602,7 @@
     },
     {
       "Route": "images/categoryImages/culture.pv5p9orxri.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\culture.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\culture.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7647,7 +7647,7 @@
     },
     {
       "Route": "images/categoryImages/drinks.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\drinks.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\drinks.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7684,7 +7684,7 @@
     },
     {
       "Route": "images/categoryImages/drinks.ptrbffhgcc.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\drinks.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\drinks.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7729,7 +7729,7 @@
     },
     {
       "Route": "images/categoryImages/film.91awhjxrhj.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\film.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\film.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7774,7 +7774,7 @@
     },
     {
       "Route": "images/categoryImages/film.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\film.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\film.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7811,7 +7811,7 @@
     },
     {
       "Route": "images/categoryImages/food.fv06gk68tg.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\food.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\food.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7856,7 +7856,7 @@
     },
     {
       "Route": "images/categoryImages/food.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\food.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\food.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7893,7 +7893,7 @@
     },
     {
       "Route": "images/categoryImages/music.3hjmh4uhyp.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\music.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\music.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7938,7 +7938,7 @@
     },
     {
       "Route": "images/categoryImages/music.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\music.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\music.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7975,7 +7975,7 @@
     },
     {
       "Route": "images/categoryImages/travel.hn0919ar31.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\travel.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\travel.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8020,7 +8020,7 @@
     },
     {
       "Route": "images/categoryImages/travel.jpg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\categoryImages\\travel.jpg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\categoryImages\\travel.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8057,7 +8057,7 @@
     },
     {
       "Route": "images/logo.f5cdxhjv1z.png",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\logo.png",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8102,7 +8102,7 @@
     },
     {
       "Route": "images/logo.png",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\logo.png",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8139,7 +8139,7 @@
     },
     {
       "Route": "images/placeholder.dlbf4ut9r1.png",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\placeholder.png",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8184,7 +8184,7 @@
     },
     {
       "Route": "images/placeholder.png",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\placeholder.png",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8221,7 +8221,7 @@
     },
     {
       "Route": "images/user.5ihs5al52n.png",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\user.png",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\user.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8266,7 +8266,7 @@
     },
     {
       "Route": "images/user.png",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\images\\user.png",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\images\\user.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8303,7 +8303,7 @@
     },
     {
       "Route": "index.7p0tn7ilmf.html",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8366,7 +8366,7 @@
     },
     {
       "Route": "index.7p0tn7ilmf.html",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8411,7 +8411,7 @@
     },
     {
       "Route": "index.7p0tn7ilmf.html.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8464,7 +8464,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8519,7 +8519,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8556,7 +8556,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-7p0tn7ilmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8601,7 +8601,7 @@
     },
     {
       "Route": "vite.69kjnsiwqx.svg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8664,7 +8664,7 @@
     },
     {
       "Route": "vite.69kjnsiwqx.svg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\vite.svg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\vite.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8709,7 +8709,7 @@
     },
     {
       "Route": "vite.69kjnsiwqx.svg.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8762,7 +8762,7 @@
     },
     {
       "Route": "vite.svg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8817,7 +8817,7 @@
     },
     {
       "Route": "vite.svg",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\wwwroot\\vite.svg",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\wwwroot\\vite.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8854,7 +8854,7 @@
     },
     {
       "Route": "vite.svg.gz",
-      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
+      "AssetFile": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\obj\\Debug\\net9.0\\compressed\\4pit3vs01m-69kjnsiwqx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

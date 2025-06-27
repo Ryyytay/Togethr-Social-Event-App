@@ -37,9 +37,27 @@ export default function ActivityForm() {
         const flattenedData = {...rest, ...location};
         try {
             if (activity) {
-                updateActivity.mutateAsync({...activity, ...flattenedData}, {
-                    onSuccess: () => navigate(`/activities/${activity.id}`),
-                })
+                const updatedActivity = {
+                    id: activity.id,
+                    title: flattenedData.title,
+                    description: flattenedData.description,
+                    category: flattenedData.category,
+                    date: flattenedData.date,
+                    city: flattenedData.city || '',
+                    venue: flattenedData.venue,
+                    latitude: flattenedData.latitude,
+                    longitude: flattenedData.longitude,
+                };
+                console.log('Submitting activity update:', updatedActivity);
+                await updateActivity.mutateAsync(updatedActivity, {
+                    onSuccess: () => {
+                        console.log('Activity updated successfully, navigating...');
+                        navigate(`/activities/${activity.id}`);
+                    },
+                    onError: (error) => {
+                        console.error('Error updating activity:', error);
+                    }
+                });
             } else {
                 createActivity.mutateAsync(flattenedData, {
                     onSuccess: (id) => navigate(`/activities/${id}`),

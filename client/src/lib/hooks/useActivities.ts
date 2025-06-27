@@ -64,8 +64,9 @@ export const useActivities = (id?: string) => {
   });
 
   const updateActivity = useMutation({
-    mutationFn: async (activity: Activity) => {
-        await agent.put(`/activities`, activity);
+    mutationFn: async (activity: Partial<Activity> & { id: string }) => {
+        const { id, attendees, isGoing, isHost, hostId, hostDisplayName, hostImageUrl, isCancelled, ...activityData } = activity;
+        await agent.put(`/activities/${id}`, activityData);
     },
     onSuccess: async () => {
         await queryClient.invalidateQueries({
