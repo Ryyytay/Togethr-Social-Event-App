@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QJrfL2d7DA=",
+  "dgSpecHash": "eU6cKmOv7ik=",
   "success": true,
-  "projectFilePath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\taype\\Documents\\Github\\Togethr\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taype\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\taype\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
