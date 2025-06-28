@@ -18,7 +18,7 @@ This app directly addresses the 2025 MSA theme of **Networking**. It allows user
 - Chat in real time with other users involved in the same activity
 - View participant profiles and connect based on shared interests
 
-It enables meaningful **student and hobby-based networking** through a seamless and engaging user experience.
+It enables meaningful **hobby-based networking** through a engaging user experience.
 
 ---
 
