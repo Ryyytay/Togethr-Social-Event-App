@@ -26,7 +26,7 @@ It enables meaningful **student and hobby-based networking** through a seamless 
 - **React** (with **TypeScript**)
 - **MobX** for state management
 - **React Router** for navigation
-- **Tailwind CSS** for UI styling
+- **Material UI** for UI styling
 - **Axios** for API communication
 
 ### Backend
@@ -46,7 +46,6 @@ It enables meaningful **student and hobby-based networking** through a seamless 
 | React with TypeScript | ✅ |
 | Visually appealing & responsive UI | ✅ |
 | React Router navigation | ✅ |
-| Git with regular commit history | ✅ |
 | .NET 9 Web API backend | ✅ |
 | EF Core for database access | ✅ |
 | SQL database for persistence | ✅ |
@@ -62,8 +61,20 @@ It enables meaningful **student and hobby-based networking** through a seamless 
 
 | Advanced Feature | Status |
 |------------------|--------|
+| **Dockerising project using docker** | ✅ |
 | **WebSockets via SignalR** | ✅ |
 | **State Management using MobX** | ✅ |
 | **Light/Dark Theme Switching** | ✅ |
+
+
+---
+
+## 📱 Responsiveness Note
+
+While the application is **fully functional and visually appealing on desktop**, some views may **not display perfectly on mobile devices** due to layout constraints and time limitations during development.
+
+The app was primarily designed with desktop users in mind, as the main use case involves activity planning, profile setup, and real-time chatting — all of which are typically easier to manage on larger screens. Mobile responsiveness was considered, and common breakpoints were addressed, but fine-tuning for all mobile layouts is still a work in progress.
+
+Future improvements will focus on enhancing mobile responsiveness for an optimal experience across all devices.
 
 ---
