@@ -1,5 +1,5 @@
 import { Group, ArrowForward, Celebration } from "@mui/icons-material";
-import { Typography, Paper, Box, Button, Container, Grid, Card, CardContent } from "@mui/material";
+import { Typography, Box, Button, Container, Grid, Card } from "@mui/material";
 import { Link } from "react-router";
 
 export default function HomePage() {
@@ -31,7 +31,7 @@ export default function HomePage() {
     >
       <Container maxWidth="lg">
         <Grid container spacing={4} alignItems="center" justifyContent="center">
-          <Grid item xs={12} md={6}>
+          <Grid size={6}>
             <Box
               sx={{
                 textAlign: { xs: 'center', md: 'left' },
@@ -124,7 +124,7 @@ export default function HomePage() {
             </Box>
           </Grid>
           
-          <Grid item xs={12} md={6}>
+          <Grid size={6}>
             <Box
               sx={{
                 display: 'flex',
@@ -137,7 +137,7 @@ export default function HomePage() {
               }}
             >
               <Grid container spacing={2} maxWidth={400}>
-                <Grid item xs={6}>
+                <Grid size={6}>
                   <Card
                     sx={{
                       background: 'rgba(255,255,255,0.1)',
@@ -162,7 +162,7 @@ export default function HomePage() {
                     </Typography>
                   </Card>
                 </Grid>
-                <Grid item xs={6}>
+                <Grid size={6}>
                   <Card
                     sx={{
                       background: 'rgba(255,255,255,0.1)',
@@ -187,7 +187,7 @@ export default function HomePage() {
                     </Typography>
                   </Card>
                 </Grid>
-                <Grid item xs={6}>
+                <Grid size={6}>
                   <Card
                     sx={{
                       background: 'rgba(255,255,255,0.1)',
@@ -211,7 +211,7 @@ export default function HomePage() {
                     </Typography>
                   </Card>
                 </Grid>
-                <Grid item xs={6}>
+                <Grid size={6}>
                   <Card
                     sx={{
                       background: 'rgba(255,255,255,0.1)',

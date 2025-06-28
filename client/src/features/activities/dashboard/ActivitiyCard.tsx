@@ -1,4 +1,4 @@
-import { Avatar, Box, Button, Card, CardContent, CardHeader, Chip, Divider, Typography, useTheme } from "@mui/material";
+import { Avatar, Box, Button, Card, CardContent, Chip, Divider, Typography, useTheme } from "@mui/material";
 import { Link } from "react-router";
 import { AccessTime, Place, Visibility } from "@mui/icons-material";
 import { formatDate } from "../../../lib/util/util";
