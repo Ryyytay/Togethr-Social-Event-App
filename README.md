@@ -1,5 +1,7 @@
 # Togethr Social Network App
 
+🎥 **Demo** [See demo here](https://togethr.azurewebsites.net/)
+
 ## 🧠 Overview
 
 Welcome to the **Togethr**, a full-stack web application designed to help users connect and organize activities such as sports, hobbies, or study sessions. Whether you're looking for a badminton buddy, a coding partner, or a group to hike with, this app enables users to network around shared interests and build meaningful connections.
@@ -56,8 +58,6 @@ It enables meaningful **student and hobby-based networking** through a seamless 
 ---
 
 ## 🌟 Advanced Features Implemented
-
-> **Only the following three advanced features will be marked:**
 
 | Advanced Feature | Status |
 |------------------|--------|
