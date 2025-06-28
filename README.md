@@ -1,6 +1,6 @@
 # Togethr Social Network App
 
-🎥 **Demo** [See demo here](https://togethr.azurewebsites.net/)
+🎥 **Demo** [Click here](https://togethr.azurewebsites.net/)
 
 ## 🧠 Overview
 
@@ -61,7 +61,6 @@ It enables meaningful **student and hobby-based networking** through a seamless 
 
 | Advanced Feature | Status |
 |------------------|--------|
-| **Dockerising project using docker** | ✅ |
 | **WebSockets via SignalR** | ✅ |
 | **State Management using MobX** | ✅ |
 | **Light/Dark Theme Switching** | ✅ |
